@@ -7,4 +7,4 @@ O_O < and reverse.
 ```
 # Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nosdayoo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nosdayoo&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nosdayoo&layout=donut-vertical&theme=radical)
