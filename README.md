@@ -8,3 +8,4 @@ O_O < and reverse.
 # Stats
 ![GitHub Stats](https://github-readme-stats-nosdayo.vercel.app/api?username=nosdayoo&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats-nosdayo.vercel.app/api/top-langs/?username=nosdayoo&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-nosdayo.vercel.app/api?username=nosdayoo&count_private=true)
