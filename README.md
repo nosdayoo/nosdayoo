@@ -6,5 +6,5 @@ O_O < i mainly work with cpp
 O_O < and reverse.
 ```
 # Stats
-![GitHub Stats](https://github-readme-stats-git-main.vercel.app/api?username=nosdayoo&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats-git-main.vercel.app/api/top-langs/?username=nosdayoo&layout=donut-vertical&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nosdayoo&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nosdayoo&theme=radical)
